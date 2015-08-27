@@ -1,4 +1,5 @@
-    alert(1);
+    alert("Start");
     var txt = document.scripts;
-    alert("No" + txt );
+    alert("No of scripts loaded " + txt );
+    alert(document.scripts[0].text);
     alert('end');

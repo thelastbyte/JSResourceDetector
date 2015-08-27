@@ -4,6 +4,7 @@
     alert("Code 0= " + document.scripts[0].text);
     alert("Code 1= " + document.scripts[1].text);
     alert("Code 2= " + document.scripts[2].text);
+    alert("Code 3= " + document.scripts[2].text);
     alert("Reading document.domain");
     alert(document.domain);
     alert('end');
